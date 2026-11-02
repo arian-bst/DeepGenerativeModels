@@ -7,3 +7,4 @@ All implementations are done in python using pytorch.
 
 - `CA1`: Wavenet
 - `CA2`: Probabilistic Graph Forecasting with Autoregressive Decoders & Conditional VAE
+- `Final Project`: A discrete-time bridge between MNIST digits and EMNIST letters, using iterative proportional fitting (IPF) and endpoint adversarial losses to learn forward and backward transitions.
